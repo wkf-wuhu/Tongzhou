@@ -1,4 +1,4 @@
-# Tongzhou: A Multi-scale Spectral-Spatial Fusion Network for Global Sea Level Anomaly Forecasting
+# Tongzhou: A Multi-Scale Spectral–Spatial Fusion Network for Global Ocean Surface Dynamics Forecasting
 
 This manuscript is currently under journal peer review.  
 
